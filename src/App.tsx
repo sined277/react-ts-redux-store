@@ -12,8 +12,6 @@ import SinglePizza from "./components/Pizza/SinglePizza";
 import MainOutlet from "./outlets/MainOutlet";
 
 
-
-
 function App() {
     return (
 
